@@ -66,3 +66,11 @@ Proceed with acquisition of the battery technology provider to secure exclusive 
 - Decision Matrix Model
 - Financial ROI Analysis
 - Power BI Executive Dashboard
+
+## Key Decision Framework
+
+![Decision Tree](visuals/decision-tree.png)
+
+## Assumption Framework
+
+![Assumption Framework](visuals/assumption-framework.png)
