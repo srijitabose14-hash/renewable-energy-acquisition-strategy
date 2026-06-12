@@ -74,3 +74,9 @@ Proceed with acquisition of the battery technology provider to secure exclusive 
 ## Assumption Framework
 
 ![Assumption Framework](visuals/assumption-framework.png)
+
+## Tools Used
+
+- Microsoft PowerPoint
+- Strategic Analysis Frameworks
+- Decision Modelling
